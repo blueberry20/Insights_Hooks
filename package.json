@@ -1,0 +1,20 @@
+{
+  "name": "insights",
+  "homepage": "http://methodeabcom-qa.staging.acml.com/campaign/theme/european-economist-viewpoint.htm",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
